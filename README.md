@@ -10,6 +10,8 @@
 
 [open-harness](https://open-harness.dev/)
 
-[https://github.com/DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+[ponytail](https://github.com/DietrichGebert/ponytail)
+
+[maximem](https://www.maximem.ai/)
 
 [DSL](https://en.wikipedia.org/wiki/Domain-specific_language)
