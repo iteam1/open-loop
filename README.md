@@ -14,4 +14,6 @@
 
 [maximem](https://www.maximem.ai/) - Synap gives your AI agents long-term memory. Ingest conversations, extract structured knowledge, and retrieve contextual memories, all through a simple SDK. No infrastructure to manage, no vector databases to tune, no retrieval pipelines to build.
 
+[kitaru](https://github.com/zenml-io/kitaru) - Record, replay, and improve AI agents in production, built on ZenML
+
 [DSL](https://en.wikipedia.org/wiki/Domain-specific_language) - A domain-specific language (DSL) is a computer language specialized to a specific application domain.
