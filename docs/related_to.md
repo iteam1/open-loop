@@ -10,6 +10,10 @@
 
 [ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 
+[rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
+
+[loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost. 
+
 ## Code Analysis & Version Control
 
 [sem](https://github.com/ataraxy-labs/sem) - Semantic version control => entity-level diffs, blame, and impact analysis on top of git. 28 languages via tree-sitter. Built for coding agents.
