@@ -2,6 +2,8 @@
 
 ## Agent SDKs & Frameworks
 
+[Tau](https://github.com/huggingface/tau)  - a minimalist agent that teaches you to create coding agents
+
 [Claude Agent SDK](https://github.com/anthropics/claude-agent-sdk-typescript) - The Claude Agent SDK enables you to programmatically build AI agents with Claude Code's capabilities.
 
 [open-harness](https://open-harness.dev/) - A code-first, composable SDK to build powerful AI agents.
